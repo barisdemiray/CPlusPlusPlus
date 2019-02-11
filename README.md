@@ -20,6 +20,8 @@ baris@box:~/workspace/playground/c++$ g++ -O0 -o move move.cpp
 baris@box:~/workspace/playground/c++$ ./move 
 Length: 2800000000
 First operation took 1163 milliseconds
+Length of the string after the call is 2800000000
 Length: 2800000000
 Second operation took 68 milliseconds
+Length of the string after the call is 0
 ```
